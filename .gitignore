@@ -1,0 +1,6 @@
+# git ignore 
+node_modules
+
+# config file 
+default.json
+

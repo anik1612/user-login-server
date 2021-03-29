@@ -5,7 +5,7 @@
 * this is a simple node js application where a user can create an account and login to their account.
 
 ## About technology:
-``` bash
+```
 * Node JS
 * Express JS
 * MongoDB 
@@ -22,14 +22,14 @@ npm run server
 
 #### Go to browser & browse
 
-``` md
-<code>localhost:5000</code>
+```
+localhost:5000
 
 you can see now a welcome message from server 😊
 ```
 
 ##### About author 
-``` md
+```
 Name: Anik Sarker
-Email: <aniksarker1612@gmail.com>
+Email: aniksarker1612@gmail.com
 ```

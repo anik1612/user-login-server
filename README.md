@@ -31,5 +31,4 @@ you can see now a welcome message from server 😊
 ##### About author 
 ```
 Name: Anik Sarker
-Email: <aniksarker1612@gmail.com>
-```
+Email:``` <aniksarker1612@gmail.com>

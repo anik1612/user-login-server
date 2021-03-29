@@ -20,10 +20,10 @@ npm i
 npm run server
 ```
 
-#### Go to browser & type
+#### Go to browser & browse
 
 ```
-<code>localhost:5000</code>
+localhost:5000
 
 you can see now a welcome message from server 😊
 ```

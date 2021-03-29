@@ -22,4 +22,4 @@ npm run server
 
 <code>localhost:5000</code>
 
-you can see now a welcome message from server :slight_smile_face
+you can see now a welcome message from server 😊

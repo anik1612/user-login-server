@@ -23,7 +23,13 @@ npm run server
 #### Go to browser & browse
 
 ```
-localhost:5000
+`localhost:5000`
 
 you can see now a welcome message from server 😊
+```
+
+##### About author 
+``` bash
+`Name`: Anik Sarker
+`Email:` <aniksarker1612@gmail.com>
 ```

@@ -29,7 +29,7 @@ you can see now a welcome message from server 😊
 ```
 
 ##### About author 
-``` bash
-`Name`: Anik Sarker
-`Email:` <aniksarker1612@gmail.com>
+```
+Name: Anik Sarker
+Email: <aniksarker1612@gmail.com>
 ```
